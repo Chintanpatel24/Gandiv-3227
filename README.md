@@ -2,21 +2,21 @@
 
 - With the in-built AI support 
 
-- power keys for the instant OS loading 
+- Power stones for the instant OS & Scripts loading 
 
-- merged a kill switch 
+- Merged a kill switch 
 
-- voice- and text-based offline working AI agent 
+- Voice- and text-based offline working AI agent 
 
 - 6 screens and one touch screen for the agent 
 
-- wants to make a portable design 
+- Wants to make a portable design 
 
-- and try to make a dedicated OS for that which is backboned by the BTC and incruption
+- And try to make a dedicated OS for that which is backboned by the BTC and incruption
 
-- detachable and replaceable hardware 
+- Detachable and replaceable hardware 
 
-- and try to make edits to stable distros (like Debian, openSUSE, and Mint) with the daily needed and secure open-source tools and easy mobile connectivity 
+- And try to make edits to stable distros (like Debian, openSUSE, and Mint) with the daily needed and secure open-source tools and easy mobile connectivity 
 
 ---
 
