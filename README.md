@@ -1,4 +1,4 @@
-# A custom cyberdeck!!
+# A custom cyberdeck !!
 
 - With the in-built AI support 
 
@@ -20,10 +20,28 @@
 
 ---
 
+<details>
+  <summary>Click to view my design ↴ </summary>
+  
+> - Yet, it's not in the portable form.
+
+| Front side | Back side |
+|----------|----------|
+| <img src="concept/front.jpg"> |<img src="concept/back.jpg"> |
+
+</details>   
+
+---
+
 ## For reference, you can see this videos !!
-- This project is inspired by that 2 and 100+ other videos.
-> tap to view ↴
+
+<details>
+  <summary> tap to view ↴ </summary>
+
+> - This project is inspired by that 2 and 100+ other videos.
 
 | Cyberdeck | Laptop |
 |---------|---------|
 | [![Video 1](https://img.youtube.com/vi/cigAxzQGeLg/0.jpg)](https://www.youtube.com/watch?v=cigAxzQGeLg) | [![Video 2](https://img.youtube.com/vi/fks3PBodyiE/0.jpg)](https://www.youtube.com/watch?v=fks3PBodyiE) |   
+
+</details>
