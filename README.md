@@ -25,9 +25,9 @@
   
 > - Yet, it's not in the portable form.
 
-| Front side | Back side |
-|----------|----------|
-| <img src="concept/front.jpg"> |<img src="concept/back.jpg"> |
+| Front side | Back side | Power Stones |
+|----------|----------|----------|
+| <img src="concept/front.jpg"> |<img src="concept/back.jpg"> |<img src="concept/powerstones.jpg"> |
 
 </details>   
 
